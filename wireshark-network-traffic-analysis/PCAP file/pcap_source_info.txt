@@ -1,0 +1,42 @@
+# Network Traffic Analysis - PCAP Source Information
+
+## PCAP File Details
+
+**File Name**: 2025-06-13-traffic-analysis-exercise.pcap
+**Source**: malware-traffic-analysis.net  
+**Original URL**: https://www.malware-traffic-analysis.net/2025/06/13/index.html
+**File Size**: 40 MB
+**ZIP Password**: infected (if downloaded from ZIP archive)
+
+## Analysis Summary
+
+**Total Packets Analyzed**: 44,877
+**Analysis Date**: September 28, 2025
+**Network Environment**: Enterprise corporate network
+**Primary Analysis Tool**: Wireshark v4.4
+
+## Key Network Characteristics
+
+- **Internal Network**: 10.6.13.x subnet
+- **Primary Host**: 10.6.13.133 
+- **Traffic Type**: Normal business operations
+- **Security Assessment**: No threats detected
+- **Notable Protocols**: HTTP (748 packets), DNS (260 packets)
+
+## File Access Instructions
+
+1. Visit: https://www.malware-traffic-analysis.net/2025/06/13/index.html
+2. Download the exercise ZIP file
+3. Extract with password: infected
+4. PCAP file ready for analysis in Wireshark
+
+## Professional Note
+
+This PCAP file was used for legitimate network security analysis training. 
+File size (40MB) exceeds GitHub's 25MB browser upload limit, hence this reference document.
+All analysis results and screenshots are included in this repository for verification.
+
+---
+Analysis conducted by: [Your Name]
+Project: Network Traffic Analysis Portfolio
+Repository: github.com/[your-username]/Wireshark-Network-Traffic-Analysis
